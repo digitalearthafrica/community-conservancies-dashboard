@@ -1,6 +1,6 @@
 {
-  "name": "NRT-conservancies-dashboard",
-  "homepage": "https://digitalearthafrica.github.io/NRT-conservancies-dashboard/",
+  "name": "community-conservancies-dashboard",
+  "homepage": "https://digitalearthafrica.github.io/community-conservancies-dashboard/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
